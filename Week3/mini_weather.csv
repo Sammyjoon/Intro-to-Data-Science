@@ -1,1 +1,504 @@
-
+Date,Summary,Precip Type,Temperature (C),Humidity
+9/19/15,Mostly Cloudy,rain,28.1,0.5
+11/29/09,Mostly Cloudy,rain,10,0.8
+11/18/06,Mostly Cloudy,rain,14.4,0.7
+2/10/10,Overcast,rain,1,0.9
+1/14/06,Mostly Cloudy,snow,-0.1,0.8
+12/17/12,Mostly Cloudy,,2,0.9
+8/4/09,Mostly Cloudy,,26.1,0.5
+5/2/06,Mostly Cloudy,,16,0.7
+10/23/16,Mostly Cloudy,,9.9,0.8
+11/19/15,Partly Cloudy,,8.4,0.8
+1/30/10,Overcast,,1,0.9
+6/13/06,Mostly Cloudy,rain,18.6,0.7
+2/1/11,Overcast,snow,-6.1,1
+11/1/13,Overcast,rain,14,0.8
+6/12/15,Partly Cloudy,rain,27.8,0.6
+10/31/16,Mostly Cloudy,,11.8,0.7
+12/16/14,Clear,rain,7.8,0.8
+7/31/12,Partly Cloudy,rain,22.6,0.7
+2/23/15,Foggy,rain,4.2,1
+6/25/09,Partly Cloudy,rain,17.8,1
+12/22/13,Foggy,snow,,1
+11/24/11,Foggy,snow,-4.1,0.9
+5/28/08,Clear,rain,15.5,0.9
+6/19/16,Mostly Cloudy,rain,16,0.9
+1/11/16,Mostly Cloudy,rain,10.7,0.9
+8/25/15,Partly Cloudy,rain,19.4,0.9
+8/31/07,Mostly Cloudy,rain,15.5,0.9
+10/18/14,Partly Cloudy,rain,10.7,0.9
+8/15/12,Mostly Cloudy,rain,24.8,0.3
+10/9/09,Partly Cloudy,rain,13.9,0.8
+10/18/06,Clear,snow,-1.6,0.9
+6/15/15,Overcast,rain,19.9,0.8
+9/16/09,Mostly Cloudy,rain,20.1,0.6
+6/4/10,Overcast,rain,16.1,0.9
+2/18/06,Mostly Cloudy,rain,10,0.8
+10/17/13,Overcast,rain,9.5,0.9
+2/27/14,Mostly Cloudy,rain,12.7,0.5
+1/7/13,Partly Cloudy,snow,-2.1,0.7
+4/22/06,Foggy,rain,7.2,1
+2/1/14,Mostly Cloudy,snow,-1.1,0.8
+1/30/13,Mostly Cloudy,rain,6.2,0.9
+5/14/16,Mostly Cloudy,rain,15,0.9
+11/27/09,Foggy,rain,3.9,0.9
+1/5/10,Foggy,snow,-2.3,1
+4/3/07,Partly Cloudy,rain,6.9,0.6
+3/28/16,Partly Cloudy,rain,3.3,0.9
+2/15/08,Partly Cloudy,snow,-4.4,0.8
+4/8/12,Breezy and Mostly Cloudy,rain,5,0.7
+1/29/11,Foggy,snow,-7,1
+8/1/10,Partly Cloudy,rain,27.2,0.6
+1/9/08,Foggy,snow,-2.4,
+1/25/10,Mostly Cloudy,snow,-9.8,0.9
+9/24/09,Clear,rain,15,0.8
+9/3/09,Clear,rain,15,0.9
+8/23/10,Clear,rain,15.5,0.9
+9/10/15,Overcast,rain,12.1,0.7
+10/20/14,Mostly Cloudy,rain,22.2,0.6
+2/26/16,Overcast,rain,4.1,0.9
+5/1/10,Partly Cloudy,rain,25.1,0.4
+5/11/14,Overcast,rain,22,0.5
+8/25/16,Clear,rain,18,0.8
+11/4/10,Mostly Cloudy,rain,11.2,0.9
+12/4/11,Mostly Cloudy,rain,8.8,0.9
+9/27/13,Overcast,rain,13.8,0.6
+2/19/16,Mostly Cloudy,rain,6,0.8
+8/15/15,Partly Cloudy,rain,33.9,0.3
+9/25/13,Mostly Cloudy,rain,17,0.7
+9/29/16,Mostly Cloudy,rain,9.5,0.9
+1/20/13,Overcast,rain,7,0.9
+9/7/11,Partly Cloudy,rain,15.2,0.9
+8/20/07,Mostly Cloudy,rain,28.7,0.5
+8/23/13,Partly Cloudy,rain,17.7,0.6
+8/10/13,Partly Cloudy,rain,23.6,0.7
+8/23/08,Overcast,rain,18.9,0.8
+8/27/15,Partly Cloudy,rain,32.1,0.4
+10/21/14,Partly Cloudy,rain,11.8,0.9
+12/3/13,Partly Cloudy,rain,2.8,0.6
+7/27/11,Mostly Cloudy,rain,22.1,0.7
+1/9/10,Breezy and Overcast,rain,9,0.8
+6/13/14,Partly Cloudy,rain,17.3,0.6
+7/4/09,Partly Cloudy,rain,27.2,0.5
+8/29/16,Clear,rain,17.6,0.8
+8/28/14,Partly Cloudy,rain,17.1,0.6
+9/29/07,Partly Cloudy,rain,22.6,0.4
+7/31/15,Mostly Cloudy,rain,23.8,0.5
+7/10/06,Clear,rain,22.5,0.7
+3/5/15,Overcast,rain,3.9,0.6
+12/8/08,Partly Cloudy,rain,2.2,0.8
+4/15/08,Overcast,rain,9.8,0.7
+4/21/11,Clear,rain,7.6,0.9
+10/9/10,Partly Cloudy,rain,3.8,0.9
+8/22/14,Partly Cloudy,rain,17.1,0.7
+9/14/13,Mostly Cloudy,rain,14.9,0.7
+1/31/09,Mostly Cloudy,rain,2.3,0.6
+8/27/12,Partly Cloudy,rain,26,0.3
+3/12/13,Partly Cloudy,rain,11,0.8
+7/19/07,Partly Cloudy,rain,28.7,0.4
+6/8/13,Partly Cloudy,rain,17.4,0.9
+9/2/06,Partly Cloudy,rain,23.8,0.5
+11/7/13,Partly Cloudy,rain,9.9,0.9
+7/30/06,Partly Cloudy,rain,28.7,0.5
+9/26/08,Mostly Cloudy,rain,16,0.6
+11/5/14,Partly Cloudy,rain,15,0.7
+8/17/13,Partly Cloudy,rain,29.8,0.3
+1/20/06,Mostly Cloudy,rain,0.2,0.8
+9/21/12,Partly Cloudy,rain,10.2,0.8
+12/19/11,Foggy,snow,0,1
+2/24/08,Partly Cloudy,rain,11.3,0.5
+5/25/16,Overcast,rain,14.4,0.9
+1/4/13,Windy and Mostly Cloudy,rain,9.9,0.7
+5/4/08,Partly Cloudy,rain,17.7,0.5
+10/21/14,Mostly Cloudy,rain,17.4,0.8
+7/2/14,Clear,rain,11.1,0.9
+9/14/10,Foggy,rain,16.6,1
+10/16/15,Overcast,rain,12.2,0.9
+6/3/09,Mostly Cloudy,rain,22.7,0.4
+5/2/12,Partly Cloudy,rain,18.1,0.6
+8/22/11,Partly Cloudy,rain,24.5,0.6
+7/20/15,Partly Cloudy,rain,32.3,0.4
+7/23/14,Mostly Cloudy,rain,22.3,0.7
+9/27/06,Mostly Cloudy,rain,13.3,0.9
+10/25/14,Mostly Cloudy,rain,6,0.9
+2/20/13,Mostly Cloudy,rain,1.1,1
+8/16/09,Partly Cloudy,rain,28.9,0.3
+8/22/13,Partly Cloudy,rain,20.4,0.7
+9/12/11,Partly Cloudy,rain,20.2,0.7
+6/25/15,Overcast,rain,12.2,0.9
+11/3/16,Partly Cloudy,rain,4.9,0.9
+7/19/12,Partly Cloudy,rain,29,0.3
+7/30/07,Partly Cloudy,rain,14,0.8
+11/15/09,Partly Cloudy,rain,13.8,0.7
+4/29/13,Partly Cloudy,rain,22.7,0.5
+8/11/09,Mostly Cloudy,rain,20.1,0.7
+10/16/10,Overcast,rain,6.6,1
+7/19/10,Mostly Cloudy,rain,21.1,0.9
+4/4/15,Overcast,rain,10,0.4
+11/9/14,Clear,rain,10.1,0.9
+9/26/13,Mostly Cloudy,rain,22,0.5
+2/10/08,Foggy,snow,-2.1,0.9
+8/24/13,Mostly Cloudy,rain,19.2,0.5
+2/2/07,Clear,rain,2.8,0.8
+12/6/16,Mostly Cloudy,rain,2.6,0.9
+5/4/09,Partly Cloudy,rain,21.2,0.3
+10/11/16,Foggy,rain,8.8,0.9
+5/7/14,Mostly Cloudy,rain,14.9,0.6
+5/16/11,Breezy and Mostly Cloudy,rain,10,0.9
+12/27/16,Mostly Cloudy,snow,-0.3,0.9
+5/4/08,Partly Cloudy,rain,15.1,0.7
+12/30/09,Overcast,rain,2.8,1
+2/8/07,Foggy,rain,3.4,1
+7/6/14,Partly Cloudy,rain,30,0.4
+2/6/15,Overcast,rain,0.1,0.8
+5/9/10,Partly Cloudy,rain,15,0.8
+6/4/14,Partly Cloudy,rain,24,0.3
+4/18/06,Partly Cloudy,rain,15.1,0.8
+9/18/13,Mostly Cloudy,rain,16.3,0.5
+3/30/13,Overcast,rain,4.3,1
+5/7/10,Partly Cloudy,rain,16.2,0.8
+10/27/12,Mostly Cloudy,rain,12.8,1
+9/17/13,Partly Cloudy,rain,8.8,0.8
+9/4/15,Mostly Cloudy,rain,22.8,0.6
+10/25/09,Mostly Cloudy,rain,15,0.8
+7/23/10,Partly Cloudy,rain,33.2,0.5
+8/12/11,Mostly Cloudy,rain,16.7,0.9
+1/29/10,Foggy,snow,-3.8,0.9
+1/31/07,Partly Cloudy,rain,7.9,0.6
+7/30/13,Mostly Cloudy,rain,20,0.9
+1/7/09,Foggy,snow,-7.2,0.9
+9/13/07,Partly Cloudy,rain,21,0.4
+1/31/14,Breezy and Mostly Cloudy,snow,-2.8,0.7
+3/10/15,Clear,snow,-0.1,0.9
+5/25/07,Partly Cloudy,rain,17.3,0.9
+10/26/09,Foggy,rain,12.8,1
+9/22/15,Partly Cloudy,rain,20,0.4
+9/8/07,Mostly Cloudy,rain,9.6,0.9
+12/7/09,Foggy,snow,0,0.9
+3/6/12,Partly Cloudy,rain,3.1,0.4
+7/23/16,Partly Cloudy,rain,22.6,0.8
+10/17/13,Overcast,rain,9.6,1
+8/15/14,Partly Cloudy,rain,22.1,0.7
+5/25/13,Overcast,rain,12.7,0.9
+7/24/12,Mostly Cloudy,rain,19.5,0.9
+6/14/06,Mostly Cloudy,rain,20.1,0.6
+9/15/08,Overcast,rain,10.5,0.9
+8/11/10,Partly Cloudy,rain,28.9,0.4
+12/22/07,Foggy,snow,-5.1,0.9
+5/17/14,Overcast,rain,12.3,0.9
+10/11/16,Overcast,rain,8.3,0.9
+8/7/11,Mostly Cloudy,rain,29.9,0.5
+10/18/14,Partly Cloudy,rain,10.1,1
+7/24/13,Partly Cloudy,rain,32.3,0.3
+11/14/07,Overcast,rain,5.1,0.7
+7/17/15,Mostly Cloudy,rain,22.7,0.7
+10/15/11,Partly Cloudy,snow,-1.2,0.9
+11/14/13,Partly Cloudy,rain,5.2,0.9
+4/14/14,Mostly Cloudy,rain,10.9,0.8
+11/16/16,Partly Cloudy,rain,2.5,0.9
+2/17/15,Mostly Cloudy,rain,2.7,0.6
+9/15/07,Clear,rain,14,0.7
+11/14/15,Mostly Cloudy,rain,5.4,0.7
+1/9/14,Foggy,rain,1.7,1
+1/18/16,Overcast,snow,-4,0.7
+2/21/15,Mostly Cloudy,rain,11.1,0.4
+4/13/16,Mostly Cloudy,rain,16,0.7
+8/12/15,Partly Cloudy,rain,17.8,0.7
+6/18/15,Partly Cloudy,rain,11.1,0.8
+10/21/07,Mostly Cloudy,rain,4.9,0.8
+4/29/14,Mostly Cloudy,rain,21,0.4
+3/30/16,Mostly Cloudy,rain,18.8,0.5
+2/5/08,Partly Cloudy,rain,3.9,0.8
+2/22/14,Overcast,rain,7.2,0.9
+11/10/09,Overcast,rain,10.6,0.9
+1/3/11,Mostly Cloudy,snow,-4.1,1
+12/31/09,Partly Cloudy,rain,10.6,0.8
+11/20/16,Mostly Cloudy,rain,7.5,0.8
+8/20/11,Partly Cloudy,rain,29.8,0.4
+12/29/07,Foggy,snow,-5.1,0.9
+12/17/12,Mostly Cloudy,rain,2.1,1
+1/11/12,Partly Cloudy,rain,7.2,0.7
+6/29/13,Partly Cloudy,rain,16,0.9
+6/5/07,Mostly Cloudy,rain,13.7,0.9
+8/17/15,Overcast,rain,20,0.9
+3/20/15,Partly Cloudy,rain,10,0.3
+7/3/06,Overcast,rain,18.8,0.9
+8/3/12,Partly Cloudy,rain,31.3,0.4
+8/15/08,Clear,rain,36,0.3
+9/2/08,Mostly Cloudy,rain,15.8,0.7
+9/18/16,Partly Cloudy,rain,16.5,0.9
+5/7/16,Partly Cloudy,rain,15.7,0.6
+7/23/14,Mostly Cloudy,rain,21.2,0.8
+9/1/16,Partly Cloudy,rain,27.2,0.3
+12/7/12,Mostly Cloudy,snow,-2.3,0.8
+10/10/07,Overcast,rain,13.9,0.6
+4/15/06,Mostly Cloudy,rain,7.6,0.9
+9/16/14,Mostly Cloudy,rain,14.9,1
+12/2/16,Partly Cloudy,rain,1.2,1
+5/30/12,Partly Cloudy,rain,23.9,0.5
+11/5/14,Partly Cloudy,rain,16.4,0.6
+8/1/09,Partly Cloudy,rain,28.9,0.4
+6/20/10,Partly Cloudy,rain,21.1,0.8
+12/3/11,Foggy,rain,5.9,0.9
+3/27/15,Partly Cloudy,rain,11.7,0.7
+2/13/13,Overcast,rain,4.4,1
+12/13/06,Foggy,snow,-1.1,1
+3/12/10,Overcast,rain,1.4,0.8
+3/26/12,Partly Cloudy,rain,15,0.1
+5/24/06,Mostly Cloudy,rain,20,0.7
+4/14/06,Overcast,rain,6.3,0.9
+2/23/14,Mostly Cloudy,rain,8.9,0.8
+10/22/08,Partly Cloudy,rain,10.8,0.8
+1/5/14,Overcast,rain,6.6,0.8
+5/20/11,Partly Cloudy,rain,19.9,0.7
+4/22/11,Partly Cloudy,rain,10.6,0.7
+10/3/07,Partly Cloudy,rain,10.8,0.8
+9/19/16,Overcast,rain,17.3,0.9
+1/14/07,Partly Cloudy,rain,6.9,0.7
+2/10/14,Mostly Cloudy,rain,7.2,0.7
+1/8/14,Foggy,rain,5.5,1
+4/19/11,Mostly Cloudy,rain,7.6,0.8
+1/8/09,Clear,snow,-2.2,0.7
+2/24/11,Foggy,snow,-2.8,1
+5/29/11,Overcast,rain,14.3,0.9
+9/28/10,Partly Cloudy,rain,20.7,0.5
+4/2/10,Partly Cloudy,rain,5.1,0.9
+9/19/16,Overcast,rain,17.7,1
+10/11/15,Foggy,rain,11,0.9
+3/15/10,Breezy and Partly Cloudy,rain,6.1,0.5
+12/1/16,Mostly Cloudy,rain,2.7,0.9
+2/8/11,Clear,rain,2,0.9
+4/10/15,Partly Cloudy,rain,15.9,0.2
+1/1/10,Overcast,rain,6.3,0.9
+9/25/11,Partly Cloudy,rain,18.8,0.5
+7/5/07,Overcast,rain,12.9,0.9
+8/17/06,Clear,rain,26.1,0.6
+10/8/08,Partly Cloudy,rain,21.1,0.5
+6/30/06,Mostly Cloudy,rain,20,0.9
+11/28/08,Clear,snow,-3.4,0.9
+4/12/12,Partly Cloudy,,16.2,0.5
+8/3/09,Mostly Cloudy,rain,22.8,0.7
+10/9/09,Mostly Cloudy,rain,27.1,0.4
+1/17/12,Overcast,snow,0,0.9
+9/15/09,Mostly Cloudy,rain,18.9,0.7
+8/27/14,Mostly Cloudy,rain,20.4,0.7
+10/2/14,Overcast,rain,16.1,0.8
+2/8/16,Overcast,rain,7.9,0.8
+2/16/08,Mostly Cloudy,snow,-1.1,0.5
+9/6/06,Partly Cloudy,rain,22.3,0.5
+3/24/14,Overcast,rain,8.8,0.9
+7/29/12,Partly Cloudy,rain,22.9,0.7
+12/29/09,Mostly Cloudy,rain,2.3,0.9
+9/21/16,Mostly Cloudy,rain,11.7,0.7
+1/12/07,Breezy and Partly Cloudy,rain,10,0.7
+4/21/16,Partly Cloudy,rain,17.8,0.3
+7/11/12,Mostly Cloudy,rain,23.3,0.6
+12/9/08,Clear,snow,-1.5,0.9
+7/12/15,Partly Cloudy,rain,19.5,0.8
+1/24/14,Overcast,snow,-0.1,0.8
+4/13/13,Partly Cloudy,rain,12.5,0.6
+4/6/07,Mostly Cloudy,rain,3.9,0.6
+2/5/08,Overcast,rain,3.8,0.8
+12/11/14,Overcast,rain,2.7,0.9
+5/19/09,Mostly Cloudy,rain,17.8,0.9
+5/14/10,Partly Cloudy,rain,12.3,1
+10/16/14,Overcast,rain,13.9,1
+11/21/12,Mostly Cloudy,rain,7.2,0.9
+5/5/15,Mostly Cloudy,rain,16.6,0.9
+11/25/12,Foggy,rain,3.1,1
+5/14/07,Partly Cloudy,rain,27.5,0.4
+2/10/08,Partly Cloudy,snow,-0.1,0.8
+11/24/13,Overcast,rain,8.9,0.9
+5/5/11,Clear,rain,7.8,0.6
+6/1/10,Foggy,rain,12.1,0.9
+10/11/06,Mostly Cloudy,rain,14.8,0.7
+5/4/11,Mostly Cloudy,rain,12.8,0.6
+10/1/16,Mostly Cloudy,rain,16.1,0.7
+10/25/15,Foggy,rain,3.8,1
+1/26/08,Clear,rain,0.7,0.8
+6/8/07,Partly Cloudy,rain,17.5,0.8
+5/26/13,Foggy,rain,8,1
+7/10/11,Partly Cloudy,rain,30,0.5
+9/9/10,Mostly Cloudy,rain,23.6,0.7
+3/3/09,Overcast,rain,8,0.8
+10/23/10,Mostly Cloudy,rain,10,0.7
+9/8/15,Partly Cloudy,rain,17.1,0.6
+11/29/11,Foggy,snow,-2.2,1
+2/21/14,Overcast,rain,9.9,0.8
+12/31/14,Clear,snow,-12.2,0.9
+7/5/14,Partly Cloudy,rain,27.8,0.4
+2/18/10,Overcast,rain,3.1,0.9
+7/11/11,Clear,rain,26,0.7
+12/1/08,Clear,rain,6.2,0.9
+12/25/12,Overcast,rain,1.2,0.9
+5/26/12,Partly Cloudy,rain,13.9,0.6
+9/1/13,Mostly Cloudy,rain,25.9,0.4
+12/5/07,Partly Cloudy,rain,4.1,0.6
+2/4/07,Partly Cloudy,rain,1.1,0.8
+12/28/06,Foggy,snow,-4.3,1
+5/6/09,Mostly Cloudy,rain,14.4,0.6
+5/11/16,Mostly Cloudy,rain,19.9,0.6
+8/12/09,Clear,rain,16.1,0.9
+1/13/12,Partly Cloudy,rain,5.2,0.6
+7/24/07,Clear,rain,22.6,0.5
+7/16/11,Partly Cloudy,rain,15.1,0.9
+7/24/16,Mostly Cloudy,rain,24.9,0.7
+12/16/13,Overcast,rain,2,0.9
+4/29/14,Mostly Cloudy,rain,9.9,0.9
+6/19/12,Partly Cloudy,rain,28.8,0.5
+5/27/12,Partly Cloudy,,21,0.4
+5/16/15,Mostly Cloudy,rain,13.3,0.9
+2/14/06,Overcast,rain,0.1,0.8
+12/10/12,Mostly Cloudy,snow,-7.1,0.9
+6/13/14,Partly Cloudy,rain,22.9,0.6
+1/28/07,Mostly Cloudy,rain,1.6,0.8
+12/29/14,Clear,snow,-3.9,0.6
+4/14/12,Light Rain,rain,10.3,0.9
+6/13/10,Mostly Cloudy,rain,22.8,0.9
+4/11/07,Foggy,rain,14,0.6
+2/7/10,Foggy,snow,-0.1,0.9
+2/11/08,Mostly Cloudy,snow,-0.8,0.8
+4/24/10,Overcast,rain,10.6,0.7
+5/12/13,Overcast,rain,17.2,0.8
+2/23/15,Overcast,rain,9.8,0.9
+11/6/12,Partly Cloudy,rain,12.2,0.7
+10/28/12,Overcast,rain,2.8,1
+11/3/15,Foggy,snow,-2.3,1
+11/9/12,Partly Cloudy,rain,12.8,0.6
+6/19/13,Partly Cloudy,rain,18.8,1
+5/20/10,Mostly Cloudy,rain,10,0.9
+5/18/08,Overcast,rain,27.7,0.4
+9/11/10,Overcast,rain,18.2,1
+10/4/07,Partly Cloudy,rain,12.7,0.8
+10/26/06,Mostly Cloudy,rain,12.2,0.7
+2/6/12,Overcast,snow,-10,0.7
+6/15/16,Partly Cloudy,rain,14.4,1
+9/27/15,Overcast,rain,13.8,0.9
+1/14/08,Foggy,rain,2,0.9
+12/5/12,Overcast,rain,0,1
+8/30/12,Partly Cloudy,rain,28.8,0.3
+10/13/10,Partly Cloudy,rain,5.9,0.9
+3/19/16,Overcast,rain,10,0.6
+9/12/16,Partly Cloudy,rain,17.2,0.8
+9/10/06,Clear,rain,6.5,1
+6/20/13,Partly Cloudy,rain,32.2,0.5
+5/27/06,Breezy and Mostly Cloudy,rain,22.4,0.5
+5/4/09,Overcast,rain,11.7,0.9
+1/24/10,Foggy,snow,-10.4,0.9
+5/13/16,Mostly Cloudy,rain,13.4,1
+1/26/16,Foggy,rain,2.7,1
+12/29/13,Clear,rain,3.3,0.8
+9/1/06,Partly Cloudy,rain,11.7,0.8
+12/26/10,Overcast,snow,-2.1,1
+2/23/13,Overcast,rain,6.1,0.9
+8/27/16,Clear,rain,22,0.7
+11/23/16,Partly Cloudy,rain,2.3,0.9
+9/25/10,Mostly Cloudy,rain,22.7,0.6
+1/14/10,Mostly Cloudy,rain,1.1,0.8
+7/1/09,Partly Cloudy,rain,21.2,0.9
+1/5/07,Mostly Cloudy,rain,7.2,0.7
+2/16/13,Mostly Cloudy,rain,7,0.8
+7/19/12,Partly Cloudy,rain,24.4,0.4
+8/17/14,Partly Cloudy,rain,21.9,0.5
+5/20/13,Partly Cloudy,rain,13.8,0.8
+9/18/11,Clear,rain,24.8,0.5
+6/20/06,Partly Cloudy,rain,28,0.6
+4/21/08,Mostly Cloudy,rain,23.9,0.4
+10/30/15,Partly Cloudy,rain,3.3,0.9
+9/2/10,Mostly Cloudy,rain,13.3,0.7
+1/27/07,Breezy,snow,-1.2,0.7
+1/4/14,Mostly Cloudy,rain,7.7,0.9
+2/16/11,Overcast,rain,2.3,0.7
+1/21/11,Overcast,rain,1.1,0.8
+5/6/11,Clear,rain,3,0.8
+7/23/11,Partly Cloudy,rain,17.8,1
+4/21/16,Clear,rain,2,0.9
+8/11/12,Partly Cloudy,rain,13.2,0.7
+12/11/07,Overcast,rain,5,0.9
+2/25/08,Clear,rain,17.7,0.4
+1/15/08,Overcast,rain,1.2,0.9
+9/30/11,Partly Cloudy,rain,26,0.4
+2/7/15,Overcast,snow,-1.1,0.8
+10/9/06,Clear,rain,18.9,0.5
+7/23/15,Partly Cloudy,rain,29.9,0.5
+11/2/07,Mostly Cloudy,rain,8.8,0.8
+2/22/06,Overcast,rain,6.1,0.9
+5/30/09,Mostly Cloudy,rain,15.9,0.6
+4/13/06,Overcast,rain,7.2,0.8
+9/26/07,Overcast,rain,16.1,0.6
+3/2/06,Partly Cloudy,snow,-3.9,0.9
+9/29/16,Mostly Cloudy,rain,11.7,0.8
+7/25/12,Overcast,rain,18.9,1
+3/20/08,Mostly Cloudy,rain,4,0.5
+12/16/10,Overcast,snow,-6.7,1
+9/21/10,Clear,rain,7.7,1
+4/12/14,Mostly Cloudy,rain,15.1,0.4
+11/27/08,Mostly Cloudy,snow,-0.1,0.8
+5/26/08,Mostly Cloudy,rain,21.1,0.5
+1/15/16,Mostly Cloudy,rain,3.8,0.9
+11/25/16,Mostly Cloudy,rain,1.9,0.9
+7/2/12,Partly Cloudy,rain,34,0.3
+3/3/11,Overcast,snow,0,1
+10/6/09,Partly Cloudy,rain,10.6,0.8
+8/14/15,Clear,rain,27.7,0.5
+11/2/06,Breezy and Partly Cloudy,rain,3.9,0.6
+4/27/13,Partly Cloudy,rain,22.2,0.5
+7/13/15,Mostly Cloudy,rain,20.4,0.8
+12/23/14,Mostly Cloudy,rain,12.1,0.7
+10/21/10,Partly Cloudy,rain,8.8,0.8
+6/16/08,Mostly Cloudy,rain,19.5,0.7
+11/14/10,Partly Cloudy,rain,14.4,0.7
+1/25/07,Clear,snow,-0.1,0.8
+9/25/15,Mostly Cloudy,rain,15.9,0.9
+6/21/12,Partly Cloudy,rain,34.8,0.3
+12/19/07,Foggy,snow,-2.8,0.9
+2/19/13,Partly Cloudy,rain,7.1,0.6
+3/26/08,Partly Cloudy,rain,7.3,0.3
+5/23/13,Mostly Cloudy,rain,13.8,0.8
+6/28/13,Mostly Cloudy,rain,12.7,1
+11/19/14,Overcast,rain,6.7,0.9
+4/24/16,Overcast,rain,12.1,1
+2/2/09,Mostly Cloudy,rain,2.8,0.8
+9/18/12,Partly Cloudy,rain,13.5,0.8
+11/23/07,Partly Cloudy,rain,2.2,0.8
+2/28/08,Clear,rain,2.6,0.8
+8/30/09,Partly Cloudy,rain,15.2,0.9
+3/15/12,Partly Cloudy,rain,8.9,0.5
+5/14/14,Mostly Cloudy,rain,10,0.9
+12/5/15,Overcast,rain,6.1,0.9
+11/3/15,Foggy,snow,-2.2,1
+7/27/13,Clear,rain,17.3,1
+7/17/07,Clear,rain,19.9,0.7
+1/6/13,Overcast,snow,0,1
+5/29/12,Mostly Cloudy,rain,18.9,0.5
+12/2/11,Foggy,rain,0.9,1
+2/18/15,Clear,rain,5,0.4
+1/25/14,Foggy,snow,-3.3,0.9
+6/2/16,Partly Cloudy,rain,17.9,0.8
+9/12/15,Partly Cloudy,rain,15.3,0.8
+11/28/08,Clear,snow,-3.3,0.9
+4/11/06,Overcast,rain,7.7,1
+2/16/09,Partly Cloudy,snow,-2.2,0.8
+6/1/08,Mostly Cloudy,rain,23.8,0.6
+8/3/14,Mostly Cloudy,rain,23.9,0.8
+2/21/16,Overcast,rain,10.1,0.7
+5/6/11,Partly Cloudy,rain,10.6,0.5
+11/18/06,Mostly Cloudy,rain,18.7,0.5
+12/2/15,Overcast,rain,7.9,0.8
+12/17/11,Breezy and Overcast,rain,3.9,0.9
+10/28/06,Mostly Cloudy,rain,8.9,1
+1/28/11,Clear,snow,-6.1,1
+11/21/14,Mostly Cloudy,rain,7.2,0.8
+5/18/12,Partly Cloudy,rain,15.1,0.6
+12/26/14,Clear,snow,-1.1,0.7
+11/15/06,Partly Cloudy,rain,5.1,0.9
+3/15/16,Partly Cloudy,rain,1.4,0.8
+8/8/16,Partly Cloudy,rain,27.3,0.3
+6/20/15,Overcast,rain,15.4,0.8
+8/4/12,Partly Cloudy,rain,30.9,0.5
+7/10/09,Mostly Cloudy,rain,15,0.9
+9/11/14,Mostly Cloudy,rain,17.2,0.9
+9/25/14,Overcast,rain,12.8,0.9
+9/19/15,Mostly Cloudy,rain,28.1,0.5
+11/29/09,Mostly Cloudy,rain,10,0.8
+11/18/06,Mostly Cloudy,rain,14.4,0.7
